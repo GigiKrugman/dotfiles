@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = marcellomulas93@gmail.com
+	name = Marcello Mulas
